@@ -668,30 +668,11 @@ flex-shrink:0;
   margin-left: 1rem;
   margin-right: 1rem;
 }
-.mob_card_photo {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
 
-.mob_card_pic img, .mob_card_photo img {
+.mob_card_pic img {
   max-width: 100%;
   height: auto;
   padding-bottom: 1rem;
-}
-
-.mob_academy_photo_tab li{
-color: #222;
-font-family: DM Sans;
-font-size: 0.75rem;
-font-style: normal;
-font-weight: 500 !important;
-text-transform: capitalize;
-margin-right: 0.8rem !important;
-}
-
-.mob_academy_photo_tab ul{
-  margin-left: -1rem;
 }
 
 /* Table CSS Start */
